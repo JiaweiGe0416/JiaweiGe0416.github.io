@@ -1,5 +1,6 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 == Research
-
+- [https://arxiv.org/abs/2303.01566 On the Provable Advantage of Unsupervised Pretraining]\n
+  \textbf{Jiawei Ge}^{*}, Shange Tang^{*}, Jianqing Fan, Chi Jin (*=equal contribution)
 ~~~
 ~~~    
