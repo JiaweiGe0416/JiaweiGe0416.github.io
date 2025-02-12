@@ -14,7 +14,10 @@ I am a fourth year Ph.D. student in the Department of [https://orfe.princeton.ed
 - I'm honored to receive the [https://engineering.princeton.edu/news/2024/09/27/award-excellence-honors-graduate-student-achievement-5 School of Engineering and Applied Science Award for Excellence]. (Sep, 2024)
 
 == Research interests
-- Distribution shift, domain adaptation and transfer learning;
-- Latent variable models and unsupervised learning;
-- Uncertainty quantification and conformal prediction.
+- Out-of-distribution generalization (OOD);
+- Transfer learning;
+- Unsupervised pretraining;
+- Networks;
+- Uncertainty quantification.
+
 
